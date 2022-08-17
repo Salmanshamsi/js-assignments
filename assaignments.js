@@ -103,6 +103,19 @@
 // }
 // vowelChecker("I am a good");
 
+//                     (8) check prime number
+
+
+// function checkPrimeNum(num1){
+//     var num = num1;
+//     if (num == 0 || num == 1 || num % 2 == 0 || num % 3 == 0){
+//         alert(num + "  is not a prime number")
+//     }else{
+//         alert(num + "  is a prime number")
+//     }
+// }
+
+// checkPrimeNum(242)
 
 //                       (9) return type of data
 
